@@ -1,2 +1,2 @@
 # VueOpdracht
-Opdracht voor stage.
+
